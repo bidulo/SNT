@@ -1,0 +1,58 @@
+html {
+    overflow-x: hidden;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 15%;
+    background-color: yellow;
+    padding: 10px;
+    font-size: 20px;
+  }
+
+table {
+    position: relative;
+    border-collapse: collapse;
+    left: 11%
+}
+
+td {
+    border: 1px solid black;
+}
+
+.yes {
+    background-color: green;
+}
+
+.§ {
+    position: relative;
+    left: 31.25%;
+}
+
+.titre {
+    position: relative;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div.img1{
+    position: relative;
+    left: 36%;
+}
+
+img.img1 {
+    width: 30%;
+}
+
+div.img2{
+    position: absolute;
+    left: 70%;
+}
+
+img.img2 {
+    width: 75%;
+}
